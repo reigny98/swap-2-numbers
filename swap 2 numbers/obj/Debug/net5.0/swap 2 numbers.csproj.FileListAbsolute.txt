@@ -1,0 +1,16 @@
+C:\Users\churchill paul\source\repos\swap 2 numbers\swap 2 numbers\bin\Debug\net5.0\swap 2 numbers.exe
+C:\Users\churchill paul\source\repos\swap 2 numbers\swap 2 numbers\bin\Debug\net5.0\swap 2 numbers.deps.json
+C:\Users\churchill paul\source\repos\swap 2 numbers\swap 2 numbers\bin\Debug\net5.0\swap 2 numbers.runtimeconfig.json
+C:\Users\churchill paul\source\repos\swap 2 numbers\swap 2 numbers\bin\Debug\net5.0\swap 2 numbers.runtimeconfig.dev.json
+C:\Users\churchill paul\source\repos\swap 2 numbers\swap 2 numbers\bin\Debug\net5.0\swap 2 numbers.dll
+C:\Users\churchill paul\source\repos\swap 2 numbers\swap 2 numbers\bin\Debug\net5.0\swap 2 numbers.pdb
+C:\Users\churchill paul\source\repos\swap 2 numbers\swap 2 numbers\obj\Debug\net5.0\swap 2 numbers.csproj.AssemblyReference.cache
+C:\Users\churchill paul\source\repos\swap 2 numbers\swap 2 numbers\obj\Debug\net5.0\swap 2 numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\churchill paul\source\repos\swap 2 numbers\swap 2 numbers\obj\Debug\net5.0\swap 2 numbers.AssemblyInfoInputs.cache
+C:\Users\churchill paul\source\repos\swap 2 numbers\swap 2 numbers\obj\Debug\net5.0\swap 2 numbers.AssemblyInfo.cs
+C:\Users\churchill paul\source\repos\swap 2 numbers\swap 2 numbers\obj\Debug\net5.0\swap 2 numbers.csproj.CoreCompileInputs.cache
+C:\Users\churchill paul\source\repos\swap 2 numbers\swap 2 numbers\obj\Debug\net5.0\swap 2 numbers.dll
+C:\Users\churchill paul\source\repos\swap 2 numbers\swap 2 numbers\obj\Debug\net5.0\refint\swap 2 numbers.dll
+C:\Users\churchill paul\source\repos\swap 2 numbers\swap 2 numbers\obj\Debug\net5.0\swap 2 numbers.pdb
+C:\Users\churchill paul\source\repos\swap 2 numbers\swap 2 numbers\obj\Debug\net5.0\swap 2 numbers.genruntimeconfig.cache
+C:\Users\churchill paul\source\repos\swap 2 numbers\swap 2 numbers\obj\Debug\net5.0\ref\swap 2 numbers.dll
